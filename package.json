@@ -1,9 +1,25 @@
 {
-  "name": "socket-chat-example",
-  "version": "0.0.1",
-  "description": "my first socket.io app",
+  "name": "socker_io",
+  "version": "1.0.0",
+  "description": "\"# junjieChat\"",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junjiebalatero/junjieChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junjiebalatero/junjieChat/issues"
+  },
+  "homepage": "https://github.com/junjiebalatero/junjieChat#readme"
 }
